@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav garg</h1>
-<h3 align="center">A 2nd Year Computer Science Student at NSUT, New Delhi</h3>
+<h3 align="center">A Computer Science Student at NSUT, New Delhi</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/madhavgarg2213](https://github.com/madhavgarg2213)
 
